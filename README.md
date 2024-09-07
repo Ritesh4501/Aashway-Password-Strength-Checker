@@ -12,7 +12,8 @@ The **Password Strength Checker Tool** is a Python-based desktop application bui
 - **Cross-platform**: Works on Windows, macOS, and Linux.
 
 ## Screenshot
-![Password Strength Checker Tool](./output.png)
+
+![Password Strength Checker Tool](output.png)
 
 ## Requirements
 - **Python 3.x** 
